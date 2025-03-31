@@ -1,2 +1,2 @@
 # play
-day 39
+day 40
