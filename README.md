@@ -1,2 +1,2 @@
 # play
-day 72
+day 73
